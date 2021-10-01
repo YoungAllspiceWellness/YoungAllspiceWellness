@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YoungAllspiceWellness
 - 👀 I’m interested in R, Python, Machine Learning, and Sports Analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anthonydelrossobusiness@gmail.com
 
 <!---
